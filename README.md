@@ -19,6 +19,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
 ## What I'm Working On
+ - ⭐ **[Trakit](https://github.com/tylxr59/Trakit)** - An open-source habit tracker
  - ⭐ **[Dicio](https://github.com/tylxr59/dicio-android)** - FOSS Android digital assistant app
  - ⭐ **[getme](https://github.com/tylxr59/getme)** - A minimal, self-hosted grocery list application built with PHP and SQLite
  - ⭐ **[LibreScale](https://github.com/tylxr59/LibreScale)** - A minimal, self-hosted weight tracking application built with PHP and SQLite
@@ -27,7 +28,6 @@
  - **[PerHour Continued](https://github.com/tylxr59/PerHour_Continued)** - PerHour Continued is a World of Warcraft addon designed to help you measure your in-game performance. Track your experience, honor, and reputation gains with ease!
  - **[tarotjs](https://github.com/tylxr59/tarotjs)** - A simple tarot card picker in Javascript
  - **[tinygallery](https://github.com/tylxr59/tinygallery)** - A tiny PHP image gallery script. Bootstrap'd with automatic zip downloads of images
- - **[Trakit](https://github.com/tylxr59/Trakit)** - An open-source habit tracker
  - **[TruePing](https://github.com/tylxr59/TruePing)** - TruePing is a continuous non-ICMP based latency tester written in Python
  - **[tthelper](https://github.com/tylxr59/tthelper)** - Bootstrap'd ticket helper for people in tech support
  - **[tylxr_log](https://github.com/tylxr59/tylxr_log)** - A FiveM ox_lib player action logging extension for Graphana
