@@ -23,7 +23,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
 ## What I'm Working On
- - ⭐ **[Trakit](https://github.com/tylxr59/Trakit)** - An open-source habit tracker
+ - ⭐ **[Trakit](https://github.com/tylxr59/Trakit)** - A free and open-source habit tracker with a beautiful GitHub-style calendar
  - ⭐ **[Dicio](https://github.com/tylxr59/dicio-android)** - FOSS Android digital assistant app
  - ⭐ **[getme](https://github.com/tylxr59/getme)** - A minimal, self-hosted grocery list application built with PHP and SQLite
  - ⭐ **[LibreScale](https://github.com/tylxr59/LibreScale)** - A minimal, self-hosted weight tracking application built with PHP and SQLite
