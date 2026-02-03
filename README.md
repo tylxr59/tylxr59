@@ -31,6 +31,7 @@
  - **[Netgear Modem Prometheus Exporter](https://github.com/tylxr59/Netgear-Modem-Prometheus-Exporter)** - A Python-based Prometheus exporter for monitoring Netgear modem metrics
  - **[oneko.js](https://github.com/tylxr59/oneko.js)** - Mods for a script adryd originally wrote to put a cat on a website - focused more on adding additional features
  - **[PerHour Continued](https://github.com/tylxr59/PerHour_Continued)** - PerHour Continued is a World of Warcraft addon designed to help you measure your in-game performance. Track your experience, honor, and reputation gains with ease!
+ - **[prattle](https://github.com/tylxr59/prattle)** - Feature rich, terminal based AI chat client
  - **[tarotjs](https://github.com/tylxr59/tarotjs)** - A simple tarot card picker in Javascript
  - **[tinygallery](https://github.com/tylxr59/tinygallery)** - A tiny PHP image gallery script. Bootstrap'd with automatic zip downloads of images
  - **[TruePing](https://github.com/tylxr59/TruePing)** - TruePing is a continuous non-ICMP based latency tester written in Python
