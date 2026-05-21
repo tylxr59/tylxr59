@@ -23,6 +23,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
 ## What I'm Working On
+ - ⭐ **[ClickyWeather](https://github.com/tylxr59/ClickyWeather)** - ClickyWeather is a playful, card-based weather app for Pebble that mixes useful forecast data with personality.
  - ⭐ **[getme](https://github.com/tylxr59/getme)** - A minimal, self-hosted grocery list application built with PHP and SQLite
  - ⭐ **[LibreScale](https://github.com/tylxr59/LibreScale)** - A minimal, self-hosted weight tracking application built with PHP and SQLite
  - **[htf](https://github.com/tylxr59/htf)** - A minimal terminal AI assistant that helps you find the right commands.
