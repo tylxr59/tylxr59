@@ -37,7 +37,6 @@
  - **[TruePing](https://github.com/tylxr59/TruePing)** - TruePing is a continuous non-ICMP based latency tester written in Python
  - **[tthelper](https://github.com/tylxr59/tthelper)** - Bootstrap'd ticket helper for people in tech support
  - **[tylxr_log](https://github.com/tylxr59/tylxr_log)** - A FiveM ox_lib player action logging extension for Graphana
- - **[tylxrplus Discord Theme](https://github.com/tylxr59/tylxrplus-discord-theme)** - Slightly modified Discord Theme
 
  ## Github Stats
  ![GitHub Contribution Graph](https://ghchart.rshah.org/tylxr59)
