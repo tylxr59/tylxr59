@@ -28,7 +28,6 @@
  - ⭐ **[PinHole](https://github.com/tylxr59/PinHole)** - A go2rtc Camera Viewer for Pebble Time 2
  - ⭐ **[getme](https://github.com/tylxr59/getme)** - A minimal, self-hosted grocery list application built with PHP and SQLite
  - ⭐ **[getme for Pebble](https://github.com/tylxr59/getme-for-pebble)** - getme Pebble app
- - **[htf](https://github.com/tylxr59/htf)** - A minimal terminal AI assistant that helps you find the right commands.
  - **[LibreScale](https://github.com/tylxr59/LibreScale)** - A minimal, self-hosted weight tracking application built with PHP and SQLite
  - **[Netgear Modem Prometheus Exporter](https://github.com/tylxr59/Netgear-Modem-Prometheus-Exporter)** - A Python-based Prometheus exporter for monitoring Netgear modem metrics
  - **[oneko.js](https://github.com/tylxr59/oneko.js)** - Mods for a script adryd originally wrote to put a cat on a website - focused more on adding additional features
