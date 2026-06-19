@@ -23,6 +23,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
 ## What I'm Working On
+ - ⭐ **[Artemis](https://github.com/tylxr59/Artemis)** - A native KDE/Linux AI coding client built with C++20, Qt Quick, Kirigami, and the Codex app-server protocol.
  - ⭐ **[ClickyWeather](https://github.com/tylxr59/ClickyWeather)** - ClickyWeather is a playful, card-based weather app for Pebble that mixes useful forecast data with personality.
  - ⭐ **[KodexBar](https://github.com/tylxr59/KodexBar)** - KodexBar is a native KDE Plasma panel widget inspired by CodexBar. 
  - ⭐ **[PinHole](https://github.com/tylxr59/PinHole)** - A go2rtc Camera Viewer for Pebble Time 2
