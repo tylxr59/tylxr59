@@ -1,42 +1,19 @@
 <div align="center">
 	<p><a href="https://tylxr.com/"><img src="https://tylxr.com/img/tylxr-graffiti-logo.png"></a></p>
 	<h3>Full-stack developer. Cat and rabbit wrangler. Purveyor of the semi-useful.</h3>
-	<h3><a href="https://tylxr.com/">Homepage</a> | <a href="https://matrix.to/#/@tylxr:matrix.org">Matrix</a> | <a rel="me" href="https://mstdn.social/@tylxr">Mastodon</a></h3>
+	<h3><a href="https://tylxr.com/">Homepage</a> | <a rel="me" href="https://mstdn.social/@tylxr">Mastodon</a> | <a href="https://discord.com/users/210581909565079553">Discord</a> | <a href="https://matrix.to/#/@tylxr:matrix.org">Matrix</a></h3>
 </div>
 
-## What I Use
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-
-## What I'm Working On
- - ⭐ **[Artemis](https://github.com/tylxr59/Artemis)** - A native KDE/Linux AI coding client built with C++20, Qt Quick, Kirigami, and the Codex app-server protocol.
- - ⭐ **[ClickyWeather](https://github.com/tylxr59/ClickyWeather)** - ClickyWeather is a playful, card-based weather app for Pebble that mixes useful forecast data with personality.
- - ⭐ **[KodexBar](https://github.com/tylxr59/KodexBar)** - KodexBar is a native KDE Plasma panel widget inspired by CodexBar. 
- - ⭐ **[PinHole](https://github.com/tylxr59/PinHole)** - A go2rtc Camera Viewer for Pebble Time 2
- - ⭐ **[getme](https://github.com/tylxr59/getme)** - A minimal, self-hosted grocery list application built with PHP and SQLite
- - ⭐ **[getme for Pebble](https://github.com/tylxr59/getme-for-pebble)** - getme Pebble app
- - **[LibreScale](https://github.com/tylxr59/LibreScale)** - A minimal, self-hosted weight tracking application built with PHP and SQLite
- - **[Netgear Modem Prometheus Exporter](https://github.com/tylxr59/Netgear-Modem-Prometheus-Exporter)** - A Python-based Prometheus exporter for monitoring Netgear modem metrics
- - **[oneko.js](https://github.com/tylxr59/oneko.js)** - Mods for a script adryd originally wrote to put a cat on a website - focused more on adding additional features
- - **[T3 Code Pebble Bridge](https://github.com/tylxr59/t3code-pebble)** - Vibecode from your wrist
- - **[tarotjs](https://github.com/tylxr59/tarotjs)** - A simple tarot card picker in Javascript
- - **[tinygallery](https://github.com/tylxr59/tinygallery)** - A tiny PHP image gallery script. Bootstrap'd with automatic zip downloads of images
- - **[tthelper](https://github.com/tylxr59/tthelper)** - Bootstrap'd ticket helper for people in tech support
- - **[tylxr_log](https://github.com/tylxr59/tylxr_log)** - A FiveM ox_lib player action logging extension for Graphana
-
- ## Github Stats
- ![GitHub Contribution Graph](https://ghchart.rshah.org/tylxr59)
+## Projects
+- [Artemis](https://github.com/tylxr59/Artemis) — Native KDE/Linux AI coding client built with C++20, Qt Quick, Kirigami, and the Codex app-server protocol.
+- [ClickyWeather](https://github.com/tylxr59/ClickyWeather) — Button-first Pebble weather app with forecasts, alerts, air quality, and privacy-first updates.
+- [dash](https://github.com/tylxr59/dash) — Lightweight dashboard for homelabbers.
+- [DayZ Server Admin MCP](https://github.com/tylxr59/DayZ-Server-Admin-MCP) — MCP server for inspecting and managing DayZ server files over SFTP, FTP, or FTPS.
+- [getme](https://github.com/tylxr59/getme) — Dead-simple, self-hosted list app in one PHP file, backed by SQLite.
+- [getme for Pebble](https://github.com/tylxr59/getme-for-pebble) — Pebble Time 2 companion app for managing a self-hosted grocery list from your wrist.
+- [KodexBar](https://github.com/tylxr59/KodexBar) — KDE Plasma 6 widget for monitoring AI provider usage, limits, credits, and status.
+- [mod-npc-enchanter](https://github.com/tylxr59/mod-npc-enchanter) — AzerothCore NPC module for applying permanent gear enchantments.
+- [PinHole](https://github.com/tylxr59/PinHole) — Pebble Time 2 camera viewer for go2rtc, Frigate, UniFi Protect, and JPEG snapshot endpoints.
+- [RackPlanner](https://github.com/tylxr59/RackPlanner) — Browser-based server rack planner with autosave, inventory, and JSON import/export.
+- [T3 Code Pebble Bridge](https://github.com/tylxr59/t3code-pebble) — Pebble Time 2 remote for monitoring T3 Code agents and dictating prompts.
+- [tthelper](https://github.com/tylxr59/tthelper) — Minimal, themed ticket-information helper for technical-support workflows.
