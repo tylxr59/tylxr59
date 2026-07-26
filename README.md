@@ -14,6 +14,7 @@
 - [getme for Pebble](https://github.com/tylxr59/getme-for-pebble) - Pebble Time 2 companion app for managing a self-hosted grocery list from your wrist.
 - [KodexBar](https://github.com/tylxr59/KodexBar) - KDE Plasma 6 widget for monitoring AI provider usage, limits, credits, and status.
 - [mod-npc-enchanter](https://github.com/tylxr59/mod-npc-enchanter) - AzerothCore NPC module for applying permanent gear enchantments.
+- [MapMe](https://github.com/tylxr59/MapMe) - A private, self-hosted map for the places you want to remember.
 - [PinHole](https://github.com/tylxr59/PinHole) - Pebble Time 2 camera viewer for go2rtc, Frigate, UniFi Protect, and JPEG snapshot endpoints.
 - [RackPlanner](https://github.com/tylxr59/RackPlanner) - Browser-based server rack planner with local autosave, equipment inventory, and JSON import/export - no backend required. 
 - [T3 Code Pebble Bridge](https://github.com/tylxr59/t3code-pebble) - Pebble Time 2 remote for monitoring T3 Code agents and dictating prompts.
