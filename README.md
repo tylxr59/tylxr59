@@ -6,15 +6,10 @@
 </div>
 
 ## Projects
-- [Artemis](https://github.com/tylxr59/Artemis) - Native KDE/Linux AI coding client built with C++20, Qt Quick, Kirigami, and the Codex app-server protocol.
-- [ClickyWeather](https://github.com/tylxr59/ClickyWeather) - Button-first Pebble weather app with forecasts, alerts, air quality, and privacy-first updates.
-- [DayZ Server Admin MCP](https://github.com/tylxr59/DayZ-Server-Admin-MCP) - MCP server for inspecting and managing DayZ server files over SFTP, FTP, or FTPS.
 - [getme](https://github.com/tylxr59/getme) - Dead-simple, self-hosted list app in one PHP file, backed by SQLite.
 - [getme for Pebble](https://github.com/tylxr59/getme-for-pebble) - Pebble Time 2 companion app for managing a self-hosted grocery list from your wrist.
-- [KodexBar](https://github.com/tylxr59/KodexBar) - KDE Plasma 6 widget for monitoring AI provider usage, limits, credits, and status.
+- [HomeAssist](https://github.com/tylxr59/HomeAssist) - Talk to Home Assistant Assist from your Pebble Time 2, with voice commands, text replies, and follow-up conversations.
 - [MapMe](https://github.com/tylxr59/MapMe) - A private, self-hosted map for the places you want to remember.
-- [mod-npc-enchanter](https://github.com/tylxr59/mod-npc-enchanter) - AzerothCore NPC module for applying permanent gear enchantments.
 - [PinHole](https://github.com/tylxr59/PinHole) - Pebble Time 2 camera viewer for go2rtc, Frigate, UniFi Protect, and JPEG snapshot endpoints.
 - [RackPlanner](https://github.com/tylxr59/RackPlanner) - Browser-based server rack planner with local autosave, equipment inventory, and JSON import/export - no backend required. 
-- [T3 Code Pebble Bridge](https://github.com/tylxr59/t3code-pebble) - Pebble Time 2 remote for monitoring T3 Code agents and dictating prompts.
 - [tthelper](https://github.com/tylxr59/tthelper) - Minimal, themed ticket-information helper for technical-support workflows.
