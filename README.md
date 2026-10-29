@@ -14,5 +14,3 @@
 - [NagaLibre](https://github.com/tylxr59/NagaLibre) - A FOSS Linux reimplementation of the Razer Naga side-button system, with onboard bindings, software macros, and a Qt desktop app.
 - [PinHole](https://github.com/tylxr59/PinHole) - Pebble Time 2 camera viewer for go2rtc, Frigate, UniFi Protect, and JPEG snapshot endpoints.
 - [QuickAssist](https://github.com/tylxr59/QuickAssist) - Talk to Home Assistant Assist from your Pebble Time 2, with voice commands, text replies, and follow-up conversations.
-- [RackPlanner](https://github.com/tylxr59/RackPlanner) - Browser-based server rack planner with local autosave, equipment inventory, and JSON import/export - no backend required. 
-- [tthelper](https://github.com/tylxr59/tthelper) - Minimal, themed ticket-information helper for technical-support workflows.
