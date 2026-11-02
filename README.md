@@ -8,6 +8,7 @@
 ## Projects
 - [getme](https://github.com/tylxr59/getme) - Dead-simple, self-hosted list app in one PHP file, backed by SQLite.
 - [getme for Pebble](https://github.com/tylxr59/getme-for-pebble) - Pebble Time 2 companion app for managing a self-hosted grocery list from your wrist.
+- [Hearth](https://github.com/tylxr59/Hearth) - Local Home Assistant integration for Nest Gen 2 thermostats, with climate controls, Eco, schedules, and weather. Experimental preview.
 - [KodexBar](https://github.com/tylxr59/KodexBar) - KDE Plasma 6 panel widget for monitoring AI provider usage, rate limits, credits, and status through the CodexBar CLI.
 - [lineageos-for-gta4xlveu](https://github.com/tylxr59/lineageos-for-gta4xlveu) - Unofficial LineageOS 24 / Android 17 for Samsung Galaxy Tab S6 Lite SM-P613 (gta4xlveu): sources, installation, and OTA channel
 - [MapMe](https://github.com/tylxr59/MapMe) - A private, self-hosted map for the places you want to remember.
